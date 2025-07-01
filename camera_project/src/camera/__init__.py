@@ -1,0 +1,1 @@
+# Empty file to make 'camera' a Python package
